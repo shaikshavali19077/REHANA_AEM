@@ -1,0 +1,7 @@
+git@github.com:shaikshavali19077/REHANA_AEM.git
+#Generate a SSh key
+ssh-keygen -t rsa -b 4096 -C "shaikshavali.shaik.19077@gmail.com"
+
+#add global values for git
+git config --global user.name "Mohammed Rehana Banu"
+git config --global user.email "rehana.aarif.shaik@gmail.com"
